@@ -26,8 +26,6 @@ import timber.log.Timber
 import kotlin.jvm.Throws
 
 /**
- * 增加一个同步的token获取
- * Created by Arthur on 2020/10/14.
  */
 object APAASessionHelper {
     private const val COGNITO_USER_ID_ATTRIBUTE = "sub"
